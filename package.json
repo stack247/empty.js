@@ -1,10 +1,8 @@
 {
   "name": "empty.js",
   "version": "1.0.0",
-  "description": "This is yet another new JavaScript library. It is exactly what it says: empty.",
   "main": "empty.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
